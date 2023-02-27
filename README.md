@@ -1,3 +1,3 @@
 # LZW
 LZW Algorithm Implementation
-Proyecto de la materia teoria de la informacion, se implementa el algoritmo de comrpesion LZW
+Proyecto de la materia teoría de la información, se implementa el algoritmo de compresión LZW
